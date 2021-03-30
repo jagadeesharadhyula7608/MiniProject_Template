@@ -13,7 +13,7 @@
  
 int main(void) {
   int a = 21;
-  int b = -6;
+  int b = -7;
  
   if (a != 20 && b++)
     printf("Inside 1st if condition, b = %d\n", b);
