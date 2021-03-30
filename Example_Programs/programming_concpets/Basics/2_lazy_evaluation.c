@@ -12,8 +12,8 @@
 #include <stdio.h>
  
 int main(void) {
-  int a = 21;
-  int b = -7;
+  int a = 210;
+  int b = -17;
  
   if (a != 20 && b++)
     printf("Inside 1st if condition, b = %d\n", b);
