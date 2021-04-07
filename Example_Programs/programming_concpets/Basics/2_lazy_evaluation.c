@@ -12,7 +12,7 @@
 #include <stdio.h>
  
 int main(void) {
-  int a = 21;
+  int a = 20;
   int b = -5;
  
   if (a != 20 && b++)
